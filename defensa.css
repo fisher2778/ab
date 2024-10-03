@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row-lg-12 {
+    background-color: rgb(118, 201, 226);
+}
+.row-lg-12 a {
+    text-decoration: none;
+}
+.row-lg-12 img {
+    background-color: rgb(189, 208, 214);
+}
+.dos {
+    display: flex;
+}
+.col-lg-3 {
+    border: 1px solid red;
+    background-color: rgb(206, 206, 101);
+}
+.col-lg-6 {
+    border: 3px solid black;
+    background-color: rgb(206, 206, 101);
+}
+.col-lg-3 img {
+    width: 40vh;
+    height: auto;
+}
+.a {
+    align-items: center;
+    margin-left: 0;
+    display: flex;
+}
+.a img {
+    width: 15vh;
+    height: 30vh;
+}
+.cuatro {
+    display: flex;
+}
+.b {
+    width: auto;
+    height: auto;
+    background-image: url(img/img4.avif);
+}
+.col-lg-5 img {
+    width: 40vh;
+    height: auto;
+}
